@@ -1,23 +1,7 @@
 <!-- SEO Meta Description: A curated list of the best BERT model variants, optimized for performance, efficiency, and domain-specific tasks. Discover RoBERTa, ALBERT, ELECTRA, and more. -->
 
 <p align="center">
-  <svg width="800" height="200" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" style="stop-color:#4A90E2;stop-opacity:1" />
-        <stop offset="100%" style="stop-color:#9013FE;stop-opacity:1" />
-      </linearGradient>
-    </defs>
-    <rect width="800" height="200" rx="20" fill="url(#grad1)" />
-    <text x="50%" y="45%" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="60" font-weight="bold" fill="white">Awesome-BERT</text>
-    <text x="50%" y="70%" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" fill="rgba(255,255,255,0.8)">The Definitive Ecosystem of BERT Model Variants</text>
-    <circle cx="50" cy="50" r="10" fill="white" opacity="0.3">
-      <animate attributeName="r" values="10;15;10" dur="3s" repeatCount="indefinite" />
-    </circle>
-    <circle cx="750" cy="150" r="8" fill="white" opacity="0.2">
-      <animate attributeName="opacity" values="0.2;0.5;0.2" dur="4s" repeatCount="indefinite" />
-    </circle>
-  </svg>
+  <img src="assets/banner.svg" width="800" alt="Awesome-BERT Banner">
 </p>
 
 <p align="center">
