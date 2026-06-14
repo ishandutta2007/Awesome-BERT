@@ -22,3 +22,15 @@ Since its release, BERT has evolved into a diverse ecosystem of models optimized
 * **BioBERT**: Pre-trained on biomedical corpora (PubMed) for specialized healthcare text mining and entity extraction.
 * **SciBERT**: Trained on millions of computer science and broad scientific papers to parse academic literature.
 * **mBERT** (Multilingual BERT): Pre-trained on Wikipedia text across 104 languages to facilitate zero-shot cross-lingual transfer.
+
+## 📈 Star History
+
+<div align="center">
+   <a href="https://www.star-history.com/?repos=ishandutta2007%2FAwesome-BERT&type=date&legend=bottom-right">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-BERT&type=date&theme=dark&legend=bottom-right" />
+      <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-BERT&type=date&legend=bottom-right" />
+      <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-BERT&type=date&legend=bottom-right" />
+    </picture>
+   </a>
+</div>
